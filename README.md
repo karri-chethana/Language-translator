@@ -3,4 +3,5 @@ This project is a language translation web app built using HTML, CSS, and JavaSc
 
 The interface looks as below:
 
-![image](https://user-images.githubusercontent.com/128505341/227799333-c3ebc02f-c78c-49bd-b08c-70830213ca70.png)
+![image](https://user-images.githubusercontent.com/128505341/227822302-8639eba8-87ad-4d92-9485-ebbc5de019cb.png)
+
